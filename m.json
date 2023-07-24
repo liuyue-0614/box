@@ -514,7 +514,7 @@
 //"proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA=="
 "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vbGl1Y24vYm94L3Jhdy9icmFuY2gvbWFpbi9saXZlL20yLnR4dA=="
 ]}]}],
-"spider":"https://cdn.jsdelivr.net/gh/liu673cn/box@main/jar/spider2207.jar;md5;727C472F6F06E2958FF50FBD0C2AAE21",
+"spider":"https://github.com/liuyue-0614/box/tree/main/jar",
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
 "ijk":[
 {"group":"软解码","options":[
